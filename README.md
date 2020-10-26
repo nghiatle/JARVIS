@@ -1,2 +1,2 @@
 # JARVIS
-personal A.I. assistant!
+Intelligent Personal Assistant!
